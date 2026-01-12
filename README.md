@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Muniba Fatima
 
-<!--
-**BI-Girl/BI-Girl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I work on Power BI, Microsoft Fabric, data analysis, and interactive visualizations.
 
-Here are some ideas to get you started:
+Here are the main sections of my work:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📁 Projects  
+End-to-end projects with KPIs, insights, business cases, and dashboards.  
+👉 *Projects will be added soon*
+
+---
+
+## 🧵 Microsoft Fabric  
+Notebooks, pipelines, data engineering, modelling and ML workflows.  
+👉 *Fabric work coming soon*
+
+---
+
+## 📊 Power BI  
+Dashboards, data models, DAX practice, optimization techniques.  
+👉 *Power BI files coming soon*
+
+---
+
+## 🎨 Visualization  
+Custom visuals, storytelling, UI/UX dashboard designs.  
+👉 *Visualizations coming soon*
+
+---
+
+More updates coming soon!
